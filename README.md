@@ -1,4 +1,4 @@
-# 💱 Sistema de Conversão Monetária
+# Sistema de Conversão Monetária
 
 Projeto desenvolvido em Java para realizar conversões entre moedas internacionais utilizando taxas de câmbio atualizadas em tempo real por meio de uma API pública.
 
